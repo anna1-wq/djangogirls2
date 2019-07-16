@@ -1,0 +1,9 @@
+*.pyc
+*~
+__pycache__
+venv
+idea
+requirements.txt
+db.sqlite3
+/static
+.DS_Store
